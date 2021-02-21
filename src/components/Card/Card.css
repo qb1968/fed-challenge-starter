@@ -69,11 +69,11 @@
   .title {
     font-size: 1.1rem;
     font-family: 'Open Sans';
-    font-weight: bolder;
     line-height: 1.125;
     letter-spacing: 0.3px;
     margin: 0 0 0.5rem;
     height: 20px;
+    color: rgb(61, 61, 61);
   }
   .status {
     display: flex;
